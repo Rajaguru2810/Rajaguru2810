@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Rajaguru Dhanaraj
 
-<!--
-**Rajaguru2810/Rajaguru2810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Associate Software Engineer at TaffInc**  
+🚀 Passionate about MERN Stack, SaaS architecture, and scalable backend systems.
 
-Here are some ideas to get you started:
+### 🧠 Skills
+- Frontend: React, Angular, TypeScript, TailwindCSS
+- Backend: Node.js, Express.js, Prisma ORM
+- Database: PostgreSQL, MySQL
+- Tools: Git, Docker, AWS, Jest, Redis, Survey Js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Current Project
+Building a **Multi-Tenant SaaS Application** with secure JWT authentication and role-based access.
+
+### 🌱 Learning
+Docker, Kubernets, and WebSocket Streaming Services.
+
+### 📫 Connect with Me
+- LinkedIn: [linkedin.com/in/rajaguru2604](#)
+- Portfolio: [rajaguru.dev](#)
+- Email: rajaguru2604@gmail.com
