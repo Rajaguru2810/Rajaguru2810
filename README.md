@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Rajaguru Dhanaraj
 
-💻 **Associate Software Engineer at TaffInc**  
-🚀 Passionate about MERN Stack, SaaS architecture, and scalable backend systems.
+💻 **Associate Engineer at TaffInc**  
+🚀 Passionate about MEAN and MERN Stack, SaaS architecture, and scalable backend systems.
 
 ### 🧠 Skills
 - Frontend: React, Angular, TypeScript, TailwindCSS
